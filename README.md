@@ -1,2 +1,3 @@
 # fractal
-fractals
+
+fractals in JS d3 ...
