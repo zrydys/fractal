@@ -10,7 +10,8 @@ fractals in js d3 ... ![logo](zrydys.png)
 
 *Social*:  https://xing.com/profile/zry_dys  https://angel.co/zrydys  TeleGram
 
-*Webs*: https://zrydys.github.io   https://zrydys.wordpress.com    ![logo](http://zrydys.github.io/zrydys.png)
+*Webs*: https://zrydys.github.io   https://zrydys.wordpress.com  ![logo](zrydysML.png)
+
 
 
 ### OS
@@ -21,7 +22,6 @@ Sample command to reduce fractal size. (@ GitHub.com/ZryDys)
    
    
 
-![logo](zrydysML.png)
 
 TBD: minor support:  3d matlab  http://dribbble.com/zrydys   tbd -- dribble?  
 
@@ -31,5 +31,5 @@ TBD: minor support:  3d matlab  http://dribbble.com/zrydys   tbd -- dribble?
 [Fractal](#fractal)  
 [Links](#links)  
 
-
+  ![logo](http://zrydys.github.io/zrydys.png)
  
