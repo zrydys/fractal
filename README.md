@@ -1,6 +1,6 @@
 # fractal
 
-fractals in JS d3 ...
+fractals in JS d3 ... ![logo](zrydys.png)
 
 
 ### links
@@ -12,8 +12,11 @@ Web + Social Media: https://zrydys.wordpress.com http://xing.com/profile/zry_dys
 
 Open-Source: https://github.com/zrydys
 
-Logo: [[http://zrydys.github.io/zrydys.png]] URL: http://zrydys.github.io
+Site-URL: http://zrydys.github.io  ![logo](http://zrydys.github.io/zrydys.png)
 
 
-[_toc_]
+##### Table of Contents  
+[Fractal](#fractal)  
+[Links](#links)  
 
+ 
