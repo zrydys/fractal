@@ -1,22 +1,35 @@
-# fractal
+# Fractal
 
-fractals in JS d3 ... ![logo](zrydys.png)
+fractals in js d3 ... ![logo](zrydys.png)
+
+## by ZryDys ( pronounce 3Ds )
+
+*Products*: https://be.net/zrydys https://pinterest.com/zrydys https://www.deviantart.com/zrydys
+
+*OpenSource*: https://github.com/zrydys
+
+*Social*:  https://xing.com/profile/zry_dys  https://angel.co/zrydys  TeleGram
+
+*Webs*: https://zrydys.github.io   https://zrydys.wordpress.com    ![logo](http://zrydys.github.io/zrydys.png)
 
 
-### links
+### OS
 
+Sample command to reduce fractal size. (@ GitHub.com/ZryDys)
+  
+   (ГЭབད); convert ~/Downloads/3d_matlab_by_zrydys.png -adaptive-resize 210x105 ~/Downloads/zrydysML.png 
+   
+   
 
-Design examples: http://be.net/zrydys http://pinterest.com/zrydys/ http://dribbble.com/zrydys http://www.deviantart.com/zrydys
+![logo](zrydysML.png)
 
-Web + Social Media: https://zrydys.wordpress.com http://xing.com/profile/zry_dys http://angel.co/zrydys
+TBD: minor support:  3d matlab  http://dribbble.com/zrydys   tbd -- dribble?  
 
-Open-Source: https://github.com/zrydys
-
-Site-URL: http://zrydys.github.io  ![logo](http://zrydys.github.io/zrydys.png)
 
 
 ##### Table of Contents  
 [Fractal](#fractal)  
 [Links](#links)  
+
 
  
